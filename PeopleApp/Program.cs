@@ -1,7 +1,11 @@
 ﻿using Packt.Shared;
 using static System.Console;
 
+<<<<<<< HEAD
 Console.WriteLine("scaphandre");
+=======
+Console.WriteLine("test");
+>>>>>>> develop/test
 
 Person bob = new();
 WriteLine(bob.ToString());
