@@ -1,6 +1,7 @@
 ﻿using Packt.Shared;
 using static System.Console;
 
+Console.WriteLine("scaphandre");
 
 Person bob = new();
 WriteLine(bob.ToString());
